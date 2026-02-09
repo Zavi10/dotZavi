@@ -1,0 +1,1 @@
+/home/zavi/.rion-dotfiles/.script/wlogout-pywalsync.sh
